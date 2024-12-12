@@ -1,0 +1,391 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|c:\\users\\kompiuteris\\desktop\\lastyear\\saitynai\\gigachatv2\\gigachat\\gigachat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|solutionrelative:gigachat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|c:\\users\\kompiuteris\\desktop\\lastyear\\saitynai\\gigachatv2\\gigachat\\gigachat\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|solutionrelative:gigachat\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|c:\\users\\kompiuteris\\desktop\\lastyear\\saitynai\\gigachatv2\\gigachat\\gigachat\\controllers\\topicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|solutionrelative:gigachat\\controllers\\topicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|c:\\users\\kompiuteris\\desktop\\lastyear\\saitynai\\gigachatv2\\gigachat\\gigachat\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|solutionrelative:gigachat\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|c:\\users\\kompiuteris\\desktop\\lastyear\\saitynai\\gigachatv2\\gigachat\\gigachat\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|solutionrelative:gigachat\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|c:\\users\\kompiuteris\\desktop\\lastyear\\saitynai\\gigachatv2\\gigachat\\gigachat\\auth\\authendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|solutionrelative:gigachat\\auth\\authendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|c:\\users\\kompiuteris\\desktop\\lastyear\\saitynai\\gigachatv2\\gigachat\\gigachat\\auth\\authseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|solutionrelative:gigachat\\auth\\authseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|c:\\users\\kompiuteris\\desktop\\lastyear\\saitynai\\gigachatv2\\gigachat\\gigachat\\auth\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|solutionrelative:gigachat\\auth\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|c:\\users\\kompiuteris\\desktop\\lastyear\\saitynai\\gigachatv2\\gigachat\\gigachat\\data\\dtos\\commentsdtos\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|solutionrelative:gigachat\\data\\dtos\\commentsdtos\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|c:\\users\\kompiuteris\\desktop\\lastyear\\saitynai\\gigachatv2\\gigachat\\gigachat\\data\\dtos\\commentsdtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|solutionrelative:gigachat\\data\\dtos\\commentsdtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|c:\\users\\kompiuteris\\desktop\\lastyear\\saitynai\\gigachatv2\\gigachat\\gigachat\\data\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|solutionrelative:gigachat\\data\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|c:\\users\\kompiuteris\\desktop\\lastyear\\saitynai\\gigachatv2\\gigachat\\gigachat\\data\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|solutionrelative:gigachat\\data\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|c:\\users\\kompiuteris\\desktop\\lastyear\\saitynai\\gigachatv2\\gigachat\\gigachat\\auth\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|solutionrelative:gigachat\\auth\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|c:\\users\\kompiuteris\\desktop\\lastyear\\saitynai\\gigachatv2\\gigachat\\gigachat\\auth\\model\\forumuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|solutionrelative:gigachat\\auth\\model\\forumuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|c:\\users\\kompiuteris\\desktop\\lastyear\\saitynai\\gigachatv2\\gigachat\\gigachat\\auth\\model\\forumroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|solutionrelative:gigachat\\auth\\model\\forumroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|c:\\users\\kompiuteris\\desktop\\lastyear\\saitynai\\gigachatv2\\gigachat\\gigachat\\migrations\\20241122072143_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|solutionrelative:gigachat\\migrations\\20241122072143_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|c:\\users\\kompiuteris\\desktop\\lastyear\\saitynai\\gigachatv2\\gigachat\\gigachat\\migrations\\gigachatdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|solutionrelative:gigachat\\migrations\\gigachatdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|c:\\users\\kompiuteris\\desktop\\lastyear\\saitynai\\gigachatv2\\gigachat\\gigachat\\data\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|solutionrelative:gigachat\\data\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|c:\\users\\kompiuteris\\desktop\\lastyear\\saitynai\\gigachatv2\\gigachat\\gigachat\\data\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|solutionrelative:gigachat\\data\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|c:\\users\\kompiuteris\\desktop\\lastyear\\saitynai\\gigachatv2\\gigachat\\gigachat\\data\\entities\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|solutionrelative:gigachat\\data\\entities\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|c:\\users\\kompiuteris\\desktop\\lastyear\\saitynai\\gigachatv2\\gigachat\\gigachat\\data\\gigachatdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|solutionrelative:gigachat\\data\\gigachatdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|c:\\users\\kompiuteris\\desktop\\lastyear\\saitynai\\gigachatv2\\gigachat\\gigachat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|solutionrelative:gigachat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|c:\\users\\kompiuteris\\desktop\\lastyear\\saitynai\\gigachatv2\\gigachat\\gigachat\\openapi.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{20968655-0FC8-4BF2-88A1-895EB2F9F7E0}|GigaChat\\GigaChat.csproj|solutionrelative:gigachat\\openapi.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "GigaChat\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "GigaChat\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAYwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:53:34.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TopicsController.cs",
+              "DocumentMoniker": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Controllers\\TopicsController.cs",
+              "RelativeDocumentMoniker": "GigaChat\\Controllers\\TopicsController.cs",
+              "ToolTip": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Controllers\\TopicsController.cs",
+              "RelativeToolTip": "GigaChat\\Controllers\\TopicsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:53:34.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Auth\\AuthEndpoints.cs",
+              "RelativeDocumentMoniker": "GigaChat\\Auth\\AuthEndpoints.cs",
+              "ToolTip": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Auth\\AuthEndpoints.cs",
+              "RelativeToolTip": "GigaChat\\Auth\\AuthEndpoints.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwEMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:58:52.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Program.cs",
+              "RelativeDocumentMoniker": "GigaChat\\Program.cs",
+              "ToolTip": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Program.cs",
+              "RelativeToolTip": "GigaChat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:11:48.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GigaChat\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GigaChat\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T06:25:04.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "GigaChat\\Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "GigaChat\\Controllers\\CommentsController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwCIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:53:33.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Auth\\AuthSeeder.cs",
+              "RelativeDocumentMoniker": "GigaChat\\Auth\\AuthSeeder.cs",
+              "ToolTip": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Auth\\AuthSeeder.cs",
+              "RelativeToolTip": "GigaChat\\Auth\\AuthSeeder.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowB8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:58:59.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Auth\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "GigaChat\\Auth\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Auth\\JwtTokenService.cs",
+              "RelativeToolTip": "GigaChat\\Auth\\JwtTokenService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwFUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:59:08.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateCommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Data\\DTOs\\CommentsDtos\\CreateCommentDto.cs",
+              "RelativeDocumentMoniker": "GigaChat\\Data\\DTOs\\CommentsDtos\\CreateCommentDto.cs",
+              "ToolTip": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Data\\DTOs\\CommentsDtos\\CreateCommentDto.cs",
+              "RelativeToolTip": "GigaChat\\Data\\DTOs\\CommentsDtos\\CreateCommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:40:24.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Data\\DTOs\\CommentsDtos\\CommentDto.cs",
+              "RelativeDocumentMoniker": "GigaChat\\Data\\DTOs\\CommentsDtos\\CommentDto.cs",
+              "ToolTip": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Data\\DTOs\\CommentsDtos\\CommentDto.cs",
+              "RelativeToolTip": "GigaChat\\Data\\DTOs\\CommentsDtos\\CommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:40:23.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Data\\Entities\\Session.cs",
+              "RelativeDocumentMoniker": "GigaChat\\Data\\Entities\\Session.cs",
+              "ToolTip": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Data\\Entities\\Session.cs",
+              "RelativeToolTip": "GigaChat\\Data\\Entities\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:56:55.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Data\\Extensions.cs",
+              "RelativeDocumentMoniker": "GigaChat\\Data\\Extensions.cs",
+              "ToolTip": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Data\\Extensions.cs",
+              "RelativeToolTip": "GigaChat\\Data\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:57:34.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SessionService.cs",
+              "DocumentMoniker": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Auth\\SessionService.cs",
+              "RelativeDocumentMoniker": "GigaChat\\Auth\\SessionService.cs",
+              "ToolTip": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Auth\\SessionService.cs",
+              "RelativeToolTip": "GigaChat\\Auth\\SessionService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:59:17.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ForumUser.cs",
+              "DocumentMoniker": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Auth\\Model\\ForumUser.cs",
+              "RelativeDocumentMoniker": "GigaChat\\Auth\\Model\\ForumUser.cs",
+              "ToolTip": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Auth\\Model\\ForumUser.cs",
+              "RelativeToolTip": "GigaChat\\Auth\\Model\\ForumUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:58:41.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ForumRoles.cs",
+              "DocumentMoniker": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Auth\\Model\\ForumRoles.cs",
+              "RelativeDocumentMoniker": "GigaChat\\Auth\\Model\\ForumRoles.cs",
+              "ToolTip": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Auth\\Model\\ForumRoles.cs",
+              "RelativeToolTip": "GigaChat\\Auth\\Model\\ForumRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:58:34.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241122072143_identity.cs",
+              "DocumentMoniker": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Migrations\\20241122072143_identity.cs",
+              "RelativeDocumentMoniker": "GigaChat\\Migrations\\20241122072143_identity.cs",
+              "ToolTip": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Migrations\\20241122072143_identity.cs",
+              "RelativeToolTip": "GigaChat\\Migrations\\20241122072143_identity.cs",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:22:02.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GigaChatDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Migrations\\GigaChatDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "GigaChat\\Migrations\\GigaChatDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Migrations\\GigaChatDbContextModelSnapshot.cs",
+              "RelativeToolTip": "GigaChat\\Migrations\\GigaChatDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:20:25.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Data\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "GigaChat\\Data\\Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Data\\Entities\\Comment.cs",
+              "RelativeToolTip": "GigaChat\\Data\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T06:59:43.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Data\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "GigaChat\\Data\\Entities\\Post.cs",
+              "ToolTip": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Data\\Entities\\Post.cs",
+              "RelativeToolTip": "GigaChat\\Data\\Entities\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T06:54:45.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Data\\Entities\\Topic.cs",
+              "RelativeDocumentMoniker": "GigaChat\\Data\\Entities\\Topic.cs",
+              "ToolTip": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Data\\Entities\\Topic.cs",
+              "RelativeToolTip": "GigaChat\\Data\\Entities\\Topic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T06:51:09.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GigaChatDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Data\\GigaChatDbContext.cs",
+              "RelativeDocumentMoniker": "GigaChat\\Data\\GigaChatDbContext.cs",
+              "ToolTip": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\Data\\GigaChatDbContext.cs",
+              "RelativeToolTip": "GigaChat\\Data\\GigaChatDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:57:31.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\appsettings.json",
+              "RelativeDocumentMoniker": "GigaChat\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\appsettings.json",
+              "RelativeToolTip": "GigaChat\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T06:24:54.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "openapi.yaml",
+              "DocumentMoniker": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\openapi.yaml",
+              "RelativeDocumentMoniker": "GigaChat\\openapi.yaml",
+              "ToolTip": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\openapi.yaml",
+              "RelativeToolTip": "GigaChat\\openapi.yaml",
+              "ViewState": "AgIAADIBAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-10-25T08:23:20.606Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@GigaChat_HostAddress = http://localhost:5072
+
+GET {{GigaChat_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
