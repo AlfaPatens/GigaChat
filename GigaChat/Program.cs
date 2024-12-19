@@ -44,7 +44,10 @@ builder.Services.AddScoped<AuthSeeder>();
 // Configure EF Core to use SQL Server
 //builder.Services.AddDbContext<GigaChatDbContext>(options =>
 //options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-var connectionString = Environment.GetEnvironmentVariable("DefaultConnection");
+//var connectionString = Environment.GetEnvironmentVariable("DefaultConnection");
+
+var connectionString = Environment.GetEnvironmentVariable("ConnectionStrings_DefaultConnection");
+
 builder.Services.AddDbContext<GigaChatDbContext>(options =>
 	options.UseMySql(
 		connectionString,
