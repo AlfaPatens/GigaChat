@@ -154,6 +154,15 @@ namespace GigaChat.Auth
 
 				return Results.Ok();
 			});
+			app.MapGet("api/v1/accounts/{userId}", async (UserManager<ForumUser> userManager, string userId) =>
+			{
+				var user = await userManager.FindByIdAsync(userId);
+				if (user == null)
+				{
+					return Results.NotFound("User not found");
+				}
+				return Results.Ok(new { UserName = user.UserName });
+			});
 		}
 
 		public record RegisterUserDto(string UserName, string Email, string Password);
