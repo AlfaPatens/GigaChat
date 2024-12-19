@@ -11,6 +11,14 @@ using GigaChat.Auth;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddCors(options =>
+{
+	options.AddDefaultPolicy(policy =>
+	{
+		policy.WithOrigins("http://localhost:5173").AllowAnyHeader().AllowAnyMethod();
+	});
+});
+
 // Add services to the container.
 
 builder.Services.AddControllers()
@@ -34,8 +42,15 @@ builder.Services.AddTransient<SessionService>();
 builder.Services.AddScoped<AuthSeeder>();
 
 // Configure EF Core to use SQL Server
+//builder.Services.AddDbContext<GigaChatDbContext>(options =>
+//options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+var connectionString = Environment.GetEnvironmentVariable("DefaultConnection");
 builder.Services.AddDbContext<GigaChatDbContext>(options =>
-	options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+	options.UseMySql(
+		connectionString,
+		new MySqlServerVersion(new Version(8, 0, 31)), // Match your MySQL version
+		mysqlOptions => mysqlOptions.EnableRetryOnFailure(5, TimeSpan.FromSeconds(10), null) // Optional retry logic
+	));
 
 builder.Services.AddIdentity<ForumUser, IdentityRole>()
 	.AddEntityFrameworkStores<GigaChatDbContext>()
@@ -57,9 +72,12 @@ builder.Services.AddAuthentication(options =>
 builder.Services.AddAuthorization();
 
 var app = builder.Build();
+app.UseCors();
 
 using var scope = app.Services.CreateScope();
 var dbContext = scope.ServiceProvider.GetRequiredService<GigaChatDbContext>();
+dbContext.Database.Migrate();
+
 
 var dbSeeder = scope.ServiceProvider.GetRequiredService<AuthSeeder>();
 await dbSeeder.SeedAsync();

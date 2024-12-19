@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\Gigachat\\GigaChat.csproj": {}
+    "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\GigaChat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\Gigachat\\GigaChat.csproj": {
+    "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\GigaChat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\Gigachat\\GigaChat.csproj",
+        "projectUniqueName": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\GigaChat.csproj",
         "projectName": "GigaChat",
-        "projectPath": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\Gigachat\\GigaChat.csproj",
+        "projectPath": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\GigaChat.csproj",
         "packagesPath": "C:\\Users\\Kompiuteris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\Gigachat\\obj\\",
+        "outputPath": "C:\\Users\\Kompiuteris\\Desktop\\LastYEAR\\Saitynai\\GigaChatV2\\GigaChat\\GigaChat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kompiuteris\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -80,15 +80,15 @@
               "target": "Package",
               "version": "[8.0.10, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[8.0.10, )"
-            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.10, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

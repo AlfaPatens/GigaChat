@@ -159,8 +159,6 @@ C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\GigaChat.pdb
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Azure.Core.dll
-C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Azure.Identity.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\EntityFramework.SqlServer.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\EntityFramework.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Humanizer.dll
@@ -169,12 +167,10 @@ C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
@@ -182,8 +178,6 @@ C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Microsoft.Identity.Client.dll
-C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
@@ -191,7 +185,6 @@ C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -207,8 +200,6 @@ C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\System.Data.SqlClient.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\System.Drawing.Common.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\System.Memory.Data.dll
-C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\System.Runtime.Caching.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\System.Security.Permissions.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\System.Windows.Extensions.dll
@@ -264,12 +255,6 @@ C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
@@ -278,7 +263,6 @@ C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\obj\Debug\net8.0\GigaChat.csproj.AssemblyReference.cache
@@ -309,3 +293,5 @@ C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Kompiuteris\Desktop\LastYEAR\Saitynai\GigaChatV2\GigaChat\GigaChat\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll

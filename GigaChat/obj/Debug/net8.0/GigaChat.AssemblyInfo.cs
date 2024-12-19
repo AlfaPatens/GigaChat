@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GigaChat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68f6b239260d88d60f333042d6cfdb2e5afc9654")]
 [assembly: System.Reflection.AssemblyProductAttribute("GigaChat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GigaChat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
